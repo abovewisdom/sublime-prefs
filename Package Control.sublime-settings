@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ColorHelper",
+		"Emmet",
+		"FileDiffs",
+		"GitGutter",
+		"LaTeXing",
+		"LaTeXTools",
+		"Package Control",
+		"PackageResourceViewer",
+		"SublimeCodeIntel",
+		"Theme - Solarized Flat"
+	]
+}
